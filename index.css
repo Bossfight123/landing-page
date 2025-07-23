@@ -165,3 +165,11 @@ a{
     outline: 2px solid #F9FAF8;
     box-shadow: 0 0 0 3px #4A90E2;
 }
+
+.footer{
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 14px;
+    text-align: center;
+    padding: 28px;
+}
