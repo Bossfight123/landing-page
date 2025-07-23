@@ -131,3 +131,37 @@ a{
     font-size: 24px;
     font-weight: 900;
 }
+
+.call{
+    display: flex;
+    background-color: #3882F6;
+    margin: 100px 300px;
+    padding: 50px;
+    border-radius: 15px;
+    justify-content: space-evenly;
+
+}
+
+.action{
+    font-size: 22px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.click{
+    font-size: 18px;
+    color:#E5E7EB;
+}
+
+.sign_down{
+    background-color: #3882F6;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    color: #F9FAF8;
+    font-weight: 900;
+    width: 110px;
+    border-radius: 15px;
+    font-size: 15px;
+    outline: 2px solid #F9FAF8;
+    box-shadow: 0 0 0 3px #4A90E2;
+}
